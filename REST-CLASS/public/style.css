@@ -1,0 +1,17 @@
+.post {
+    background-color: maroon;
+    height: 200px;
+    width: 1200px;
+}
+
+.user {
+    background-color: blueviolet;
+}
+
+.content {
+    background-color: crimson;
+}
+
+.id {
+    background-color: chartreuse;
+}
